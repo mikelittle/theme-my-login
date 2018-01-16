@@ -1,6 +1,6 @@
 {
   "name": "zed1/theme-my-login",
-  "version": "6.4.10.1",
+  "version": "6.4.10",
   "description": "Themes the WordPress login, registration and forgot password pages according to your theme. This is an updated version forked from the original",
   "keywords": ["wordpress", "plugin"],
   "homepage": "http://www.jfarthing.com/extend/wordpress-plugins/theme-my-login/",
