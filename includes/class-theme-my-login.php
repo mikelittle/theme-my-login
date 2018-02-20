@@ -755,7 +755,7 @@ if(typeof wpOnload=='function')wpOnload()
 	 * @return string Logout URL
 	 */
 	public function logout_url( $logout_url, $redirect ) {
-		$logout_url = self::get_page_link( 'logout' );
+		//$logout_url = self::get_page_link( 'logout' );
 		if ( $redirect )
 			$logout_url = add_query_arg( 'redirect_to', urlencode( $redirect ), $logout_url );
 		return $logout_url;
